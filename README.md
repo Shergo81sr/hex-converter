@@ -19,4 +19,4 @@ A simple tool to convert text to hexadecimal encoding and vice versa using Pytho
 
 1. Clone the project:
 ```bash
-git clone https://github.com/username/hex-converter.git
+git clone https://github.com/Shergo81sr/hex-converter.git
